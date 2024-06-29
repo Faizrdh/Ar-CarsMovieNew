@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hudson Hornet (Wii)
+* source:	https://sketchfab.com/3d-models/hudson-hornet-wii-db29ab9b4c2444e896d4211692ffd236
+* author:	kanaleja87 (https://sketchfab.com/kanaleja87)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hudson Hornet (Wii)" (https://sketchfab.com/3d-models/hudson-hornet-wii-db29ab9b4c2444e896d4211692ffd236) by kanaleja87 (https://sketchfab.com/kanaleja87) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

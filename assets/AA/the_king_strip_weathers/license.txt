@@ -1,0 +1,11 @@
+Model Information:
+* title:	The King strip weathers
+* source:	https://sketchfab.com/3d-models/the-king-strip-weathers-a8ca7bd1a9ee416881fa1480e70cacf3
+* author:	zairiqzairiq (https://sketchfab.com/zairiqzairiq)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The King strip weathers" (https://sketchfab.com/3d-models/the-king-strip-weathers-a8ca7bd1a9ee416881fa1480e70cacf3) by zairiqzairiq (https://sketchfab.com/zairiqzairiq) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

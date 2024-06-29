@@ -1,0 +1,521 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1672,
+      "max": [
+        1.157025694847107,
+        1.4475518465042114,
+        2.2051682472229004
+      ],
+      "min": [
+        -1.157025694847107,
+        -0.0018906350014731288,
+        -2.2744505405426025
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20064,
+      "componentType": 5126,
+      "count": 1672,
+      "max": [
+        1.0,
+        0.9997748732566833,
+        0.9406924843788147
+      ],
+      "min": [
+        -1.0,
+        -0.9989024996757507,
+        -0.9410131573677063
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1672,
+      "max": [
+        2.0,
+        0.949005126953125
+      ],
+      "min": [
+        -0.0496826171875,
+        0.02783203125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 6444,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 40128,
+      "componentType": 5126,
+      "count": 3650,
+      "max": [
+        1.0527852773666382,
+        1.4996564388275146,
+        2.396894931793213
+      ],
+      "min": [
+        -1.0527852773666382,
+        0.1219780370593071,
+        -2.636857271194458
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 83928,
+      "componentType": 5126,
+      "count": 3650,
+      "max": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13376,
+      "componentType": 5126,
+      "count": 3650,
+      "max": [
+        0.99609375,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0048828125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 25776,
+      "componentType": 5125,
+      "count": 10593,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 127728,
+      "componentType": 5126,
+      "count": 63,
+      "max": [
+        0.872765839099884,
+        1.394209861755371,
+        0.3329121470451355
+      ],
+      "min": [
+        -0.872765839099884,
+        0.9377792477607727,
+        -1.5086183547973633
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 128484,
+      "componentType": 5126,
+      "count": 63,
+      "max": [
+        0.9013655781745911,
+        0.7907816767692566,
+        0.042982880026102066
+      ],
+      "min": [
+        -0.9013655781745911,
+        0.4309207499027252,
+        -0.646961510181427
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 42576,
+      "componentType": 5126,
+      "count": 63,
+      "max": [
+        0.98291015625,
+        0.9906005859375
+      ],
+      "min": [
+        0.0224609375,
+        0.00634765625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 68148,
+      "componentType": 5125,
+      "count": 192,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 129240,
+      "componentType": 5126,
+      "count": 21,
+      "max": [
+        0.8437395691871643,
+        1.4000756740570068,
+        0.6390913724899292
+      ],
+      "min": [
+        -0.8432452082633972,
+        0.9315926432609558,
+        0.10953803360462189
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 129492,
+      "componentType": 5126,
+      "count": 21,
+      "max": [
+        0.4429721534252167,
+        0.6723732352256775,
+        0.7557482123374939
+      ],
+      "min": [
+        -0.44288480281829834,
+        0.5879535675048828,
+        0.6764374375343323
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 43080,
+      "componentType": 5126,
+      "count": 21,
+      "max": [
+        0.99951171875,
+        0.9967384338378906
+      ],
+      "min": [
+        -0.0,
+        0.021484375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 68916,
+      "componentType": 5125,
+      "count": 72,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "carsvg1 (https://sketchfab.com/carsvg1)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cars-2-wii-game-chick-hicks-4c9b7828128849359e08cd11473ca1f6",
+      "title": "Cars 2 wii Game Chick Hicks"
+    },
+    "generator": "Sketchfab-15.83.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 69204,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 43248,
+      "byteOffset": 69204,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 129744,
+      "byteOffset": 112452,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 242196,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Cars3_ChickHicks_Tires_baseColor.png"
+    },
+    {
+      "uri": "textures/Cars3_ChickHicks_Body_baseColor.png"
+    },
+    {
+      "uri": "textures/Cars3_ChickHicks_Windows_baseColor.png"
+    },
+    {
+      "uri": "textures/Cars3_ChickHicks_Eyes_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Cars3_ChickHicks_Tires",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Cars3_ChickHicks_Body",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Cars3_ChickHicks_Windows",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Cars3_ChickHicks_Eyes",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "0000_bodyMeshShape_Cars3_ChickHicks_Tires_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "0001_bodyMeshShape_Cars3_ChickHicks_Body_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "0002_bodyMeshShape_Cars3_ChickHicks_Windows_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "0003_bodyMeshShape_Cars3_ChickHicks_Eyes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.01519149262458086,
+        2.2201898217837687e-16,
+        -0.9998846054077148,
+        0.0,
+        -0.9998846054077148,
+        3.373188978046584e-18,
+        -0.01519149262458086,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "cars2_chickhicks.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "0000_bodyMeshShape"
+    },
+    {
+      "mesh": 0,
+      "name": "0000_bodyMeshShape_Cars3_ChickHicks_Tires_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "0001_bodyMeshShape"
+    },
+    {
+      "mesh": 1,
+      "name": "0001_bodyMeshShape_Cars3_ChickHicks_Body_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "0002_bodyMeshShape"
+    },
+    {
+      "mesh": 2,
+      "name": "0002_bodyMeshShape_Cars3_ChickHicks_Windows_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "0003_bodyMeshShape"
+    },
+    {
+      "mesh": 3,
+      "name": "0003_bodyMeshShape_Cars3_ChickHicks_Eyes_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	lightning McQueen Cars (2006)
+* source:	https://sketchfab.com/3d-models/lightning-mcqueen-cars-2006-ac2472a40f3545809c87157ff4d9902e
+* author:	Jamessmartguy (https://sketchfab.com/skybaca1985)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lightning McQueen Cars (2006)" (https://sketchfab.com/3d-models/lightning-mcqueen-cars-2006-ac2472a40f3545809c87157ff4d9902e) by Jamessmartguy (https://sketchfab.com/skybaca1985) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

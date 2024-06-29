@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sally Carrera (Wii)
+* source:	https://sketchfab.com/3d-models/sally-carrera-wii-17247f3eaca9405db6963131c1ca251e
+* author:	kanaleja87 (https://sketchfab.com/kanaleja87)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sally Carrera (Wii)" (https://sketchfab.com/3d-models/sally-carrera-wii-17247f3eaca9405db6963131c1ca251e) by kanaleja87 (https://sketchfab.com/kanaleja87) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

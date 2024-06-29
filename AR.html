@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v7.0.0/dist/aframe-extras.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mind-ar@1.2.5/dist/mindar-image-aframe.prod.js"></script>
+  </head>
+  <body>
+    <a-scene mindar-image="imageTargetSrc: assets/target/targets (3).mind;" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
+      <a-assets>
+          <!-- 3D model -->
+          <a-asset-item id="aerithModel" src="assets/AA/cars_2_wii_game_chick_hicks/scene.gltf"></a-asset-item>
+          <a-asset-item id="avalancheModel" src="assets/AA/disney_infinity_fillmore/scene.gltf"></a-asset-item>
+          <a-asset-item id="barretModel" src="assets/AA/ds_d_si_-_cars_2_-_luigi/scene.gltf"></a-asset-item>
+          <a-asset-item id="chocoboModel" src="assets/AA/hudson_hornet_wii/scene.gltf"></a-asset-item>
+          <a-asset-item id="cloudModel" src="assets/AA/lightning_mcqueen_cars_2006/scene.gltf"></a-asset-item>
+          <a-asset-item id="mainCharactersModel" src="assets/AA/mack_only-cars-gcn-ver/scene.gltf"></a-asset-item>
+          <a-asset-item id="remakeTifaModel" src="assets/AA/mater_from_cars_2_game_wii_and_pc/scene.gltf"></a-asset-item>
+          <a-asset-item id="originalCloudModel" src="assets/AA/sally_carrera_wii/scene.gltf"></a-asset-item>
+          <a-asset-item id="sephirothModel" src="assets/AA/sarge_cars_2_wii_game/scene.gltf"></a-asset-item>
+          <a-asset-item id="originalTifaModel" src="assets/AA/the_king_strip_weathers/scene.gltf"></a-asset-item>
+      </a-assets>
+
+      <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
+
+      <a-entity mindar-image-target="targetIndex: 0">
+        <a-gltf-model position="0 0 .4" rotation="90 0 0" scale="8 8 8" src="#aerithModel"></a-gltf-model>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 1">
+        <a-gltf-model position="0 0 0" rotation="90 0 0" scale=".05 .05 .05" src="#avalancheModel"></a-gltf-model>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 2">
+        <a-gltf-model position="0 0 0" rotation="90 0 0" scale=".05 .05 .05" src="#barretModel"></a-gltf-model>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 3">
+        <a-gltf-model position=".5 0 0" rotation="90 0 0" scale="0.09 0.09 0.09" src="#chocoboModel"></a-gltf-model>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 4">
+        <a-gltf-model position="0 0 .3" rotation="90 0 0" scale=".1 .1 .1" src="#cloudModel"></a-gltf-model>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 5">
+        <a-gltf-model position="-.4 -.2 0" rotation="90 0 0" scale=".011 .011 .011" src="#mainCharactersModel"></a-gltf-model>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 6">
+        <a-gltf-model position="0 0 0" rotation="90 0 0" scale="0.09 0.09 0.09" src="#originalCloudModel"></a-gltf-model>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 7">
+        <a-gltf-model position="0 0 0" rotation="90 0 0" scale=".0009 .0009 .0009" src="#sephirothModel"></a-gltf-model>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 8">
+        <a-gltf-model position="0 0 0" rotation="90 0 0" scale=".2 .2 .2" src="#originalTifaModel"></a-gltf-model>
+      </a-entity>
+      <a-entity mindar-image-target="targetIndex: 9">
+        <a-gltf-model position="0 0 0" rotation="90 0 0" scale=".1 .1 .1" src="#yuffieModel"></a-gltf-model>
+      </a-entity>
+    </a-scene>
+  </body>
+</html>
